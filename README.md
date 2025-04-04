@@ -116,5 +116,4 @@ This project was conducted as part of my **personal and academic learning journe
 ## 👨‍💻 Author
 
 Ismael — Data Science & Cloud Computing Engineering Student  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
 
